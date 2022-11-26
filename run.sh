@@ -1,0 +1,1 @@
+python train.py --model_name CMGCN --dataset box_top10 --device "cuda:0"
