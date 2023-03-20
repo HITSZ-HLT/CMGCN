@@ -3,9 +3,9 @@
 This is the code of the proposed CMGCN model for multi-modal sarcasm detection
 
 ## FILES
-    * 1 ./train.py : code for running the training and testing procedures \\
-    * 2 ./bucket_iterator.py : code for converting the inputs into pytorch tensors \\
-    * 3 ./data_utils.py : code for loading the dataset and performing BERT tokenization \\
+    * 1 ./train.py : code for running the training and testing procedures
+    * 2 ./bucket_iterator.py : code for converting the inputs into pytorch tensors
+    * 3 ./data_utils.py : code for loading the dataset and performing BERT tokenization
     * 4 ./glove_embedding.py : code for loading the dataset and performing GloVe tokenization
     * 5 ./generate_cross_modal_graph.py : code for generating the cross-modal graph
     * 6 ./layers/*.py : code for some modules used in our model
